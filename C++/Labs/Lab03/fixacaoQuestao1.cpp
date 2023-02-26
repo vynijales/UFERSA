@@ -1,26 +1,16 @@
-#include <iostrem> 
+// Corrija o código a seguir:
+
+#include <iostream> 
 using namespace std;
 
-void Main () 
-{ 
+int main () { 
     int segundos, minutos; 
  
     cout << "Digite uma quantidade de minutos: "; 
     cin >> minutos; 
-    segundos =: 
-    cout << "Existem " <<  << " segundos em "; 
-         << minutos << minutos. 
-    segundos = 100 * minutos; 
-    Cout << endl; 
+    segundos = minutos * 60;
+    cout << "Existem " << segundos << " segundos em " << minutos << "."; // Existem 120 segundos em 2.
+    cout << endl; 
  
-    sistema("pausa"); 
-    retorna NULL; 
+    system("pause"); 
 } 
- 
-// Existem 120 segundos em 2 minutos. 
-// Medida: 10 
-// 2x medida: 20 
-// Medida ao quadrado: 100 
-// Digite sua idade: 20 
-// 20 anos equivalem a 7300 dias. 
- 
