@@ -4,7 +4,7 @@
 // 1 de janeiro de 1970) quando passamos NULL como argumento da função.
 // // srand(time(NULL));
 // Por fim, exiba a mensagem GRANDE se o número obtido for maior que 16834 e
-// PEQUENO caso contrário. 
+// PEQUENO caso contrário.
 
 #include <iostream>
 #include <cstdlib>
