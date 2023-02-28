@@ -4,7 +4,7 @@
 // da função Linha() e de saltos de linha para obter linhas com 10, 20 e 30 hifens
 // respectivamente. O programa deve produzir a saída abaixo. A função Linha() não
 // deve ser chamada diretamente pela função main(), apenas Pequena(), Media() e
-// Grande() devem fazer uso dela.
+// Grande() devem fazer uso dela. 
 // // ----------
 // // --------------------
 // // ------------------------------
